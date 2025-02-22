@@ -1,13 +1,13 @@
 {
-    "telegram": {
-        "phone_number": "",
-        "api_id": 0,
-        "api_hash": ""
-    },
+    "telegram": {
+        "phone_number": "+919110630171",
+        "api_id": 21754030,
+        "api_hash": "59fa714a86f806b4bc68270b94561163"
+    },
 
-    "claim_to": "channel",
-    "sleep_between_check": 100,
-    "usernames": [
-        "waquan"
-    ]
+    "claim_to": "channel",
+    "sleep_between_check": 100,
+    "usernames": [
+        "TestChannel9183"
+    ]
 }
